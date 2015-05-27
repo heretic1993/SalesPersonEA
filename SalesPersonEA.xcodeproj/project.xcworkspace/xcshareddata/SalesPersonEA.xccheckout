@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8C2AC2B8-CC96-4BE2-8171-D1C9F8720418</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SalesPersonEA</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B6ED96F8FA4BB824690828B118704EF8A74FD877</key>
+		<string>https://github.com/heretic1993/SalesPersonEA.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SalesPersonEA.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B6ED96F8FA4BB824690828B118704EF8A74FD877</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/heretic1993/SalesPersonEA.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B6ED96F8FA4BB824690828B118704EF8A74FD877</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B6ED96F8FA4BB824690828B118704EF8A74FD877</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SalesPersonEA</string>
+		</dict>
+	</array>
+</dict>
+</plist>
